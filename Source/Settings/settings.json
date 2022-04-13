@@ -1,0 +1,30 @@
+{
+  "botToken": "OTYxMzI5NjA1NTU2NDQ1MTg0.Yk3Z9g.RPe-JV9u9gdeMlplOP9quLqUECo",
+  "botOwner": "OTYxMzI5NjA1NTU2NDQ1MTg0.Yk3Z9g.RPe-JV9u9gdeMlplOP9quLqUECo",
+  "botPrefix": ".",
+  "botVoiceChannel": "963483929527091254",
+  "botActivityName": "Dietraa",
+  "botActivityType": "PLAYING",
+  "botStatus": "online",
+
+  "mongoConnectionLink": "mongodb+srv://discordbot:discordbot@cluster0.660tl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+
+  "welcomeChannel": "963483929258635288",
+  "rulesChannel": "963483929527091257",
+  "Suspicious": "963483929178955837",
+  "Unregistered": "963483929220874321",
+
+
+  "FamilyRole": "963483929220874328",
+  "Tag": "•",
+  "Untag": "•",
+
+  "RegisterStaff": ["963483929233465368", "963502546801020940"],
+  "ManRole": "963483929220874322",
+  "WomanRole": "963483929220874323",
+  "BoosterRole": "963483929220874328",
+
+  "Yes": "✅",
+  "No": "❌"
+
+}
